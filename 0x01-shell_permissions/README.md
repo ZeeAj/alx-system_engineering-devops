@@ -1,0 +1,1 @@
+sudo su - betty : Switch current user
